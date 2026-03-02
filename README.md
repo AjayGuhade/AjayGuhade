@@ -7,7 +7,7 @@
 
 - 🚀 DevOps-Focused Engineer | Linux & Automation Enthusiast
 - 🛠 Completed: Git workflows, shell scripting, Python automation & Docker projects
-- 📘 90 Days of DevOps — Building consistency in public
+- 📘 **[90 Days of DevOps challenge](https://github.com/AjayGuhade/90DaysOfDevOps/tree/master/2026)** — Building consistency in public
 - ⏭ Next: CI/CD pipelines, Kubernetes, Cloud (AWS) & IaC (Terraform)
 - ⚡ Engineering systems that scale, automate & self-heal
 
