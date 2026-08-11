@@ -24,7 +24,7 @@
 ## 📫 Connect With Me
 - LinkedIn: (https://www.linkedin.com/in/ajayguhade2004/)
 - Email: (ajayguhade2004@gmail.com)
-- 📄 Know about my experiences: (https://drive.google.com/file/d/1NVYizCG-fNViZs8ociNoiJ5o9lc6s_5y/view?usp=drive_link)
+- 📄 Know about my experiences: ([https://drive.google.com/file/d/1n6QTXUkZG20y07s80m2XNKpfyo_XqePL/view?usp=drive_link])
 
 
 
